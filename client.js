@@ -19,7 +19,7 @@ client.on("ready", () => {
 	console.log('\x1b[37m',"-------------------------------------------------------------------------")
 	console.log(" ")
 	console.log('\x1b[31m',"[Bot Info] Prefix: +")
-	console.log(" [Bot Info] Version: V1.2 Closed Beta")
+	console.log(" [Bot Info] Version: V1.2 Release")
 	console.log(" [Bot Info] Use +help for a list of commands.")
 	console.log(" [Credit] This bot was made by SP0NG.")
 	console.log(" [Credit] Special thanks to MyNameIsThat.")
